@@ -1,0 +1,9 @@
+body{
+  background: url('/images/bronwen.jpg') no-repeat 100% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+
